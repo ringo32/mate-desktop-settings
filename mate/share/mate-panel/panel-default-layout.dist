@@ -1,0 +1,4 @@
+[org.mate.panel.object]
+object-type = "menu"
+use-custom-icon = true
+custom-icon = "/usr/share/icons/logo5.png"
